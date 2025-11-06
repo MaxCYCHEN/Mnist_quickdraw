@@ -16,4 +16,4 @@ The training script of MNIST &amp; tflite model
 - Use [NuEdgeWise](https://github.com/OpenNuvoton/NuEdgeWise)'s [ML_Image_Classification](https://github.com/OpenNuvoton/ML_Image_Classification/tree/master/vela) to convert to TFLite and C++ files.
 
 ## 3. Inference code
-- MCU: M460, M55M1 
+- MCU: M55M1: https://github.com/OpenNuvoton/M55M1BSP/tree/master/SampleCode/MachineLearning/HandWriteRecognition
